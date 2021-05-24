@@ -11,6 +11,10 @@ This code is about image recognition, so you can use it to recognize other than 
 
 ## How to use this code
   ### Training
+  ```
     Change path from original to what you want. This path should be your dataset and beware about overfitting.
+  ```
   ### Testing 
+  ```
     Copy your picture path to path parameter. This path supports all Except!!!!! .GIF (That's all about I know). 
+  ```
