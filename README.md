@@ -1,4 +1,4 @@
-# Face-Recognition-by-python
+# Face Recognition by python (Handcraft)
 This code is about image recognition, so you can use it to recognize other than human face and the code that's from my class.
 
 ## Feature Extraction (now)
